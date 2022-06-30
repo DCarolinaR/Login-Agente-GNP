@@ -21,9 +21,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
 
-WebUI.setText(findTestObject('Object Repository/Es la guitarra de lolo/input_La contrasea quehas introducido es in_6ef811'), 
-    'bjkbjkbk')
-
 WebUI.setEncryptedText(findTestObject('Object Repository/Es la guitarra de lolo/input_Deseas recuperar tucontrasea_password'), 
     'fiYraE75dM9fSF11pfU62Q==')
 
