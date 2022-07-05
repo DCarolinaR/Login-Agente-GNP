@@ -5,4 +5,30 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>92a347bc-54c6-4931-b0e0-1fde90770239</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>36c06257-e0d9-4e4c-ba60-8dc975a801e3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7bd7336e-6165-47a7-8380-b5619e5a877e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>36c06257-e0d9-4e4c-ba60-8dc975a801e3</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7bd7336e-6165-47a7-8380-b5619e5a877e</id>
+      <masked>false</masked>
+      <name>Cuenta</name>
+   </variable>
 </TestCaseEntity>

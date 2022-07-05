@@ -17,17 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
-
-WebUI.maximizeWindow()
-
-WebUI.setText(findTestObject('LOGIN/input_La contrasea quehas introducido es in_6ef811'), Cuenta)
-
-WebUI.setEncryptedText(findTestObject('Object Repository/LOGIN/pass'), pass)
-
-WebUI.click(findTestObject('Object Repository/LOGIN/iniciar_sesion'))
-
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
-
-WebUI.closeBrowser()
+WebUI.acceptAlert()
 
