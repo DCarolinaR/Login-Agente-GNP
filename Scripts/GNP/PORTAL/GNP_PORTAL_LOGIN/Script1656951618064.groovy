@@ -17,3 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
+
+WebUI.setText(findTestObject('Object Repository/LOGIN/boton_iniciarsesion'), 'biaani.gdda')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/LOGIN/pass'), 'aCNOeMVT6E+hS+e2Ost8OQ==')
+
+WebUI.click(findTestObject('Object Repository/LOGIN/iniciar_sesion'))
+
+WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
+
+WebUI.closeBrowser()
+

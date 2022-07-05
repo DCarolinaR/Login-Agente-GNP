@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Deseas recuperar tucontrasea_password</name>
+   <name>pass</name>
    <tag></tag>
    <elementGuidId>14300467-affa-4e32-a778-d45418cc19ff</elementGuidId>
    <selectorCollection>
