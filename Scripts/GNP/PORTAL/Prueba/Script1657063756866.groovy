@@ -19,15 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
 
-WebUI.setText(findTestObject('Object Repository/LOGIN/input_nombreusuario'), usuario)
+WebUI.setText(findTestObject('Object Repository/Prueba_Portal/input_nombreusuario'), username)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/LOGIN/input_pass'), pass)
+WebUI.setEncryptedText(findTestObject('Object Repository/Prueba_Portal/input_password'), password)
 
-WebUI.click(findTestObject('Object Repository/LOGIN/button_Iniciar sesin'))
+WebUI.click(findTestObject('Object Repository/Prueba_Portal/button_Iniciar sesin'))
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
 
-WebUI.verifyElementText(findTestObject('Object Repository/LOGIN/a_Mi Plan de Carrera'), 'Mi Plan de Carrera')
+WebUI.verifyElementText(findTestObject('Object Repository/Prueba_Portal/a_Mi Plan de Carrera'), 'Mi Plan de Carrera')
 
 WebUI.closeBrowser()
 

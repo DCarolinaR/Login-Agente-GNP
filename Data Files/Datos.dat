@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Usuarios</name>
+   <name>Datos</name>
    <tag></tag>
    <containsHeaders>true</containsHeaders>
    <csvSeperator>COMMA</csvSeperator>
-   <dataFileGUID>2a0ea55b-9745-46d6-8bd3-e66f567f6c42</dataFileGUID>
+   <dataFileGUID>c507283c-6a3c-4cff-a66a-d349edf9cf2e</dataFileGUID>
    <dataSourceUrl>C:\Users\Cqa\Desktop\Data\Prueba_datos.csv</dataSourceUrl>
    <driver>CSV</driver>
    <isInternalPath>false</isInternalPath>

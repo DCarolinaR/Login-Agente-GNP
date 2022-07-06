@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>iniciar_sesion</name>
+   <name>button_Iniciar sesin</name>
    <tag></tag>
-   <elementGuidId>5b240c87-ebbd-4056-9aaf-479ac0c0e9b3</elementGuidId>
+   <elementGuidId>46fd90f9-1e8b-4137-9177-37190a5ef4d5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f01d541f-2ffb-4beb-b7c1-2621386b205c</webElementGuid>
+      <webElementGuid>65647a80-909c-44dd-8d98-85c3a00028a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>062cdfc8-eae9-4937-918d-a2af05f4e2d7</webElementGuid>
+      <webElementGuid>e3be555e-d186-4c29-9579-221ea647bdea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>cf897785-35c5-4e15-8f30-8a70ed062d3e</webElementGuid>
+      <webElementGuid>45b1728c-d13d-402b-addd-5b0e1a8d9f7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Submit</value>
-      <webElementGuid>3c929b1a-78c5-4937-9d81-8d902fe9f445</webElementGuid>
+      <webElementGuid>35d1d229-3ef1-4084-b4f6-e0abc6da8205</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary art-button</value>
-      <webElementGuid>6c495a22-3cbd-48a7-853d-a9ac192b6690</webElementGuid>
+      <webElementGuid>19121cff-daf8-4f59-ae09-e00c8c3f5448</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Iniciar sesión</value>
-      <webElementGuid>643af3e5-b368-4828-8e9b-9be5283df752</webElementGuid>
+      <webElementGuid>cade76dc-2848-4511-8967-af53ca31306f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;form-login-submit&quot;)/div[@class=&quot;controls&quot;]/button[@class=&quot;btn btn-primary art-button&quot;]</value>
-      <webElementGuid>95454198-01be-4f79-8ea6-c71e0e71a9d4</webElementGuid>
+      <webElementGuid>e342233b-845a-4df1-abc1-c8dcb95f96ac</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@name='Submit']</value>
-      <webElementGuid>504d959d-a3b7-4b7a-9c65-eb3f5273c0ff</webElementGuid>
+      <webElementGuid>1007bbc3-5155-4ff3-b978-5157f8c454f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='form-login-submit']/div/button</value>
-      <webElementGuid>3b5f1664-9892-4f89-8cc4-47e23649f0f9</webElementGuid>
+      <webElementGuid>0fb326d6-d568-469c-8bb7-ae01c06af753</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Aviso de privacidad'])[1]/preceding::button[1]</value>
-      <webElementGuid>72bd3d20-04b3-4aa3-8a1a-d2e32514c114</webElementGuid>
+      <webElementGuid>7b7a44a8-67b9-4c49-a0d4-3e5f71e07a2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Iniciar sesión']/parent::*</value>
-      <webElementGuid>7441cf54-91d1-4275-a81d-caa91dc1f720</webElementGuid>
+      <webElementGuid>67bc901d-d855-46d7-bbe2-7f0a241e5b02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>f1806bd2-82ce-4d21-8827-fc04609fc210</webElementGuid>
+      <webElementGuid>7d4aa40a-2975-472c-a124-5a3f5bb38526</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and @name = 'Submit' and (text() = 'Iniciar sesión' or . = 'Iniciar sesión')]</value>
-      <webElementGuid>0f3cda28-9293-4881-96d8-42c63c117d73</webElementGuid>
+      <webElementGuid>fb76fbde-fe13-482c-8264-ed1d7c78d2b0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
