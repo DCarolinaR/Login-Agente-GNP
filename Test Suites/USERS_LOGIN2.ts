@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>USERS_LOGIN2</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>5</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>997d74f3-f670-4dc0-9227-5e3474bbaf61</testSuiteGuid>
+   <testCaseLink>
+      <guid>96dd88dd-28b8-43b5-8376-1e304394cf38</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/GNP/PORTAL/GNP_PORTAL_LOGIN_2</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b8d107fb-7ee8-44ef-a174-ae32e6685b5e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Usuarios2</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7bb84407-a837-4eb0-ac9b-33a1b48ae412</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b8d107fb-7ee8-44ef-a174-ae32e6685b5e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>7029931c-a74e-4c96-a518-7557463d7237</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
