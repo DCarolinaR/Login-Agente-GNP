@@ -29,9 +29,7 @@ WebUI.click(findTestObject('Object Repository/LOGIN/button_Iniciar sesin'))
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
 
-WebUI.verifyElementText(findTestObject('Object Repository/LOGIN/a_Mi Plan de Carrera'), 'Mi Plan de Carrera')
+WebUI.verifyElementText(findTestObject('Boton_busqueda'), '')
 
 WebUI.closeBrowser()
-
-WebUI.acceptAlert()
 
