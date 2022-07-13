@@ -21,13 +21,15 @@ WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/LOGIN/input_nombreusuario'), usuario)
+WebUI.setText(findTestObject('Object Repository/GNP_PORTAL_LOGIN_PERFIL/input_usuario'), usuario)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/LOGIN/input_pass'), pass)
+WebUI.setEncryptedText(findTestObject('Object Repository/GNP_PORTAL_LOGIN_PERFIL/input_pass'), pass)
 
-WebUI.click(findTestObject('Object Repository/LOGIN/button_Iniciar sesin'))
+WebUI.click(findTestObject('Object Repository/GNP_PORTAL_LOGIN_PERFIL/button_Iniciar sesin'))
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
+
+WebUI.verifyElementText(findTestObject('Object Repository/GNP_PORTAL_LOGIN_PERFIL/a_Perfil'), 'Perfil')
 
 WebUI.closeBrowser()
 

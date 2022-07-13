@@ -25,22 +25,22 @@
       <testCaseId>Test Cases/GNP/PORTAL/GNP_PORTAL_LOGIN</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>a1566570-34c6-4c55-baf8-3cb9bc798ee8</id>
+         <id>0b4280c3-deff-40be-a90a-a38721e66129</id>
          <iterationEntity>
-            <iterationType>RANGE</iterationType>
-            <value>1-14</value>
+            <iterationType>ALL</iterationType>
+            <value></value>
          </iterationEntity>
          <testDataId>Data Files/Usuarios</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>a1566570-34c6-4c55-baf8-3cb9bc798ee8</testDataLinkId>
+         <testDataLinkId>0b4280c3-deff-40be-a90a-a38721e66129</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>usuario</value>
          <variableId>36c06257-e0d9-4e4c-ba60-8dc975a801e3</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>a1566570-34c6-4c55-baf8-3cb9bc798ee8</testDataLinkId>
+         <testDataLinkId>0b4280c3-deff-40be-a90a-a38721e66129</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>pass</value>
          <variableId>7bd7336e-6165-47a7-8380-b5619e5a877e</variableId>

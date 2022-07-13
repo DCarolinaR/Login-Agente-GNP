@@ -3,7 +3,7 @@
    <description></description>
    <name>input_nombreusuario</name>
    <tag></tag>
-   <elementGuidId>e02913df-870a-4f86-b5ea-9f2388112716</elementGuidId>
+   <elementGuidId>e89ab8ab-327b-4404-8d09-43747127f924</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bc9460be-54d8-4ad3-b0fc-f2e658631940</webElementGuid>
+      <webElementGuid>c43feb34-fdfe-470c-8847-3433a0ac21bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>modlgn-username</value>
-      <webElementGuid>456358e1-881e-43fc-a7ef-6210f1704550</webElementGuid>
+      <webElementGuid>52407042-2b08-4697-8a37-a8d155b5bb25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>c02ebb9e-24b0-4979-bae0-a20ad6040c85</webElementGuid>
+      <webElementGuid>184700ff-ec7a-4638-99b3-d9aab57f88bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>ffd66764-0cf5-464b-8c43-f83397b85b1d</webElementGuid>
+      <webElementGuid>243d3ab9-2730-4c88-a151-2b5eb60f82e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-small</value>
-      <webElementGuid>cea12251-e847-41e0-a1c1-903780c4fb3b</webElementGuid>
+      <webElementGuid>67c72a79-9450-4bbe-aa94-e1114513c038</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>5b781a45-d551-4409-a892-1864ea2367b2</webElementGuid>
+      <webElementGuid>a71a44ea-82b5-429a-87bc-25d30ea6cc67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>size</name>
       <type>Main</type>
       <value>18</value>
-      <webElementGuid>ca818f5f-ea2a-420b-8fdf-b16633a7483e</webElementGuid>
+      <webElementGuid>22d89eff-dd3e-48a6-8fe2-2ff1133c3522</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>USUARIO</value>
-      <webElementGuid>f8ea0d16-5a71-45b9-b56b-469711e3fc55</webElementGuid>
+      <webElementGuid>9e7d6c1e-7fd5-4438-b0ee-dbfd2fe8ad34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;modlgn-username&quot;)</value>
-      <webElementGuid>9b353a48-b1fa-4226-a5cd-6a04a7ca151a</webElementGuid>
+      <webElementGuid>fb060157-3fb1-4eca-9408-d8cb1956be03</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='modlgn-username']</value>
-      <webElementGuid>0e80b290-6771-40a9-9820-dc64f8c622f3</webElementGuid>
+      <webElementGuid>d0bc4da6-ad8f-494d-8746-28e1d7f32d96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='form-login-username']/div/div/input</value>
-      <webElementGuid>9906438b-bc02-4ed7-818d-57c1fd6f0eea</webElementGuid>
+      <webElementGuid>3bd0ee44-b30b-4f63-8eb9-5ea353361e94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>a784918f-ceee-4d0f-859d-49bb5557ef31</webElementGuid>
+      <webElementGuid>feebc8f5-1a2b-48ac-af71-f5c18634506f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'modlgn-username' and @type = 'text' and @name = 'username' and @placeholder = 'USUARIO']</value>
-      <webElementGuid>18f16fa1-26c0-45e9-8dc4-dc6fc801509d</webElementGuid>
+      <webElementGuid>f2c948cb-5492-46af-837e-bbc7f1fec7fa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,16 +3,19 @@
    <description></description>
    <name>a_Mi Plan de Carrera</name>
    <tag></tag>
-   <elementGuidId>86afe10c-d539-4d78-81eb-79756c8ab0cb</elementGuidId>
+   <elementGuidId>dd23eea0-0031-470d-9c95-c8d6e091c233</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>li.item-383.deeper.parent > a</value>
+         <key>BASIC</key>
+         <value>//*[@href = '#?rand=0.3292674549533352' and (text() = 'Mi Plan de Carrera' or . = 'Mi Plan de Carrera')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;art-main&quot;]/nav/div/ul/li[1]/a
-</value>
+         <value>//*[@id=&quot;art-main&quot;]/nav/div/ul/li[1]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.separator</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,15 +26,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>82793c0b-6c64-487e-909d-59dee87f71da</webElementGuid>
+      <webElementGuid>97e3b928-903f-41af-9bdc-c6fc054eeb8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>separator</value>
+      <webElementGuid>02213d3a-2a61-4e5b-8d98-b40bc483a3f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/index.php?Itemid=118?rand=0.08702575207595653</value>
-      <webElementGuid>75658573-5092-4a26-bd12-d5c4957f78b0</webElementGuid>
+      <value>#?rand=0.3292674549533352</value>
+      <webElementGuid>c65b41fc-8fc6-41b2-b8d3-1846f62a5735</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,24 +50,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Mi Plan de Carrera</value>
-      <webElementGuid>680d5214-fe2b-4595-be03-c353d733e1ca</webElementGuid>
+      <webElementGuid>1229cbae-e3d5-4bed-a655-eca0dd0eec27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;art-main&quot;)/nav[@class=&quot;art-nav desktop-nav&quot;]/div[@class=&quot;art-nav-inner&quot;]/ul[@class=&quot;art-hmenu&quot;]/li[@class=&quot;item-383 deeper parent&quot;]/a[1]</value>
-      <webElementGuid>18612507-5a2c-4ae5-8ac7-ac4030da6684</webElementGuid>
+      <value>id(&quot;art-main&quot;)/nav[@class=&quot;art-nav desktop-nav&quot;]/div[@class=&quot;art-nav-inner&quot;]/ul[@class=&quot;art-hmenu&quot;]/li[@class=&quot;item-664 deeper parent&quot;]/a[@class=&quot;separator&quot;]</value>
+      <webElementGuid>93a62d3f-7ed3-4760-b2aa-fc90cd48c238</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='art-main']/nav/div/ul/li[2]/a
-</value>
-      <webElementGuid>1a7cd969-80a9-4e20-9538-947c2ef530ca</webElementGuid>
+      <value>//div[@id='art-main']/nav/div/ul/li/a</value>
+      <webElementGuid>6dd61ec9-68eb-472e-9243-a7556de5477f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,31 +74,31 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Mi Plan de Carrera')]</value>
-      <webElementGuid>c935b42b-915e-498a-86b6-109002953247</webElementGuid>
+      <webElementGuid>f0d2fcde-e7d3-4712-9823-23f0cf070e86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reglamento'])[1]/following::a[1]</value>
-      <webElementGuid>ede06a72-fa01-4aba-aaf7-128ab1b74c41</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perfil'])[1]/following::a[2]</value>
+      <webElementGuid>3fd0cd57-91b1-4ffa-a1de-041e9de25b62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seguros PyMEs'])[1]/following::a[2]</value>
-      <webElementGuid>2f413b8f-90f8-45ab-b828-62162beea8e0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biaani# Gerente Desarrollo Aspirante'])[1]/following::a[3]</value>
+      <webElementGuid>a3de5259-5d75-4ec4-817f-4203b5459326</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mis Avances'])[1]/preceding::a[1]</value>
-      <webElementGuid>0c63343c-fd7a-4030-935d-194e8e2d05ce</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABC del Agente'])[1]/preceding::a[1]</value>
+      <webElementGuid>bc3ebe58-d922-4acc-b136-18dd0be34fd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Inducción a GNP'])[1]/preceding::a[2]</value>
-      <webElementGuid>756c0b06-5b8a-4abf-8e64-263b0d06b401</webElementGuid>
+      <webElementGuid>7ae8d87a-dc12-4c9a-9a9c-efc2d2b91ba1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,30 +114,30 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Mi Plan de Carrera']/parent::*</value>
-      <webElementGuid>ef0b3faf-db76-45e7-a0e3-83827bce9180</webElementGuid>
+      <webElementGuid>e748ef29-550d-4341-9ec4-bc4b5418c7ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/index.php?Itemid=118?rand=0.08702575207595653')]</value>
-      <webElementGuid>4d79bdcf-9344-4e9d-ac39-232ba50ad01f</webElementGuid>
+      <value>//a[contains(@href, '#?rand=0.3292674549533352')]</value>
+      <webElementGuid>fee3d263-9bde-4c5b-9c7c-0aeb0bd748e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/a</value>
-      <webElementGuid>785f359b-a142-40a1-8cf4-8acf2aa8b4dc</webElementGuid>
+      <value>//li/a</value>
+      <webElementGuid>81c4b591-adee-4285-8cb8-9ab2aad96baf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/index.php?Itemid=118?rand=0.08702575207595653' and (text() = 'Mi Plan de Carrera' or . = 'Mi Plan de Carrera')]</value>
-      <webElementGuid>3b67ce09-890c-4671-9e0f-16c61cee135d</webElementGuid>
+      <value>//a[@href = '#?rand=0.3292674549533352' and (text() = 'Mi Plan de Carrera' or . = 'Mi Plan de Carrera')]</value>
+      <webElementGuid>9a3d16bd-1c63-4eec-ab53-d3c6597aa792</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
