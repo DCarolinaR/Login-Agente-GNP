@@ -6,12 +6,12 @@
    <elementGuidId>94306c44-6a0c-4c8b-88c0-440edfc97837</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.art-search-button</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//input[@value=''])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.art-search-button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0a27ba06-bbe3-4c07-8cf2-d6ddb88fe24a</webElementGuid>
+      <webElementGuid>440b6753-6828-4394-bf72-296f7de1363f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>65227194-c289-4e35-99de-e3f18420c0f3</webElementGuid>
+      <webElementGuid>ec2db8e6-d2a2-456c-a780-3fba26121c2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>art-search-button</value>
-      <webElementGuid>8135bfc6-b998-47ce-8328-9e697c472323</webElementGuid>
+      <webElementGuid>d4f52d6c-3bbe-4a28-8755-ae819ed7acdb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;art-main&quot;)/header[@class=&quot;art-header&quot;]/div[@class=&quot;notificaciones&quot;]/div[@class=&quot;notificaciones-content&quot;]/div[@class=&quot;art-textblock art-object227400126&quot;]/form[@class=&quot;art-search&quot;]/input[@class=&quot;art-search-button&quot;]</value>
-      <webElementGuid>afa1feb7-419b-4f39-af03-32dc53688c33</webElementGuid>
+      <webElementGuid>e992958d-57c6-4429-b738-6df32bc3db1a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@value=''])[2]</value>
-      <webElementGuid>1a9b4474-fb99-4c40-b0bc-b93e7016ecf5</webElementGuid>
+      <webElementGuid>2c612468-4c8d-49bf-bb12-c06052726798</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='art-main']/header/div[2]/div/div/form/input[6]</value>
-      <webElementGuid>718ed00e-bc2f-4454-b90f-b990debc6d25</webElementGuid>
+      <webElementGuid>b4f4f6b0-1aab-43f1-b2ef-757da7214822</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[6]</value>
-      <webElementGuid>e3cf67fb-4523-4a8d-a2a0-7ce813e14be7</webElementGuid>
+      <webElementGuid>1db043bf-90b4-41c1-8fe9-d99a28504f3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit']</value>
-      <webElementGuid>5c9c1394-5556-4437-95ed-c8cb4558348b</webElementGuid>
+      <webElementGuid>b4f19046-b810-425b-87d4-de39e6b1fb17</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

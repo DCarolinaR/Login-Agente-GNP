@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>GNP_PORTAL_LOGIN</name>
+   <name>GNP_PORTAL_LOGIN_BUSQUEDA</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>92a347bc-54c6-4931-b0e0-1fde90770239</testCaseGuid>

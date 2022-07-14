@@ -22,13 +22,13 @@
          <masked>false</masked>
          <name>usuario</name>
       </iterationNameVariable>
-      <testCaseId>Test Cases/GNP/PORTAL/GNP_PORTAL_LOGIN</testCaseId>
+      <testCaseId>Test Cases/GNP/PORTAL/GNP_PORTAL_LOGIN_BUSQUEDA</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>a1566570-34c6-4c55-baf8-3cb9bc798ee8</id>
          <iterationEntity>
-            <iterationType>RANGE</iterationType>
-            <value>1-14</value>
+            <iterationType>SPECIFIC</iterationType>
+            <value>1,24</value>
          </iterationEntity>
          <testDataId>Data Files/Usuarios</testDataId>
       </testDataLink>

@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
+WebUI.openBrowser('https://www.ideasgnp.com.mx')
 
 WebUI.maximizeWindow()
 
@@ -27,9 +27,9 @@ WebUI.setEncryptedText(findTestObject('Object Repository/LOGIN/input_pass'), pas
 
 WebUI.click(findTestObject('Object Repository/LOGIN/button_Iniciar sesin'))
 
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
+WebUI.navigateToUrl('https://www.ideasgnp.com.mx')
 
-WebUI.verifyElementText(findTestObject('Boton_busqueda'), '')
+WebUI.verifyElementPresent(findTestObject('Boton_busqueda'), 0)
 
 WebUI.closeBrowser()
 
