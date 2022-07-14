@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_password</name>
+   <name>input_pass</name>
    <tag></tag>
-   <elementGuidId>04d7c70e-9598-417c-8aae-57bd60095ab7</elementGuidId>
+   <elementGuidId>fef57231-86d3-4179-babc-f28174b37e73</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>77200a26-daab-4415-b689-5b50eb0cf489</webElementGuid>
+      <webElementGuid>60006755-dd94-4e68-8ffe-39f29932924f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>modlgn-passwd</value>
-      <webElementGuid>b270258a-2b32-4e6f-bc1b-83e17c7afe5b</webElementGuid>
+      <webElementGuid>37601e4e-1218-467f-a194-c8d89d4017f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>69f6ab55-b1ad-44bb-85f4-189f12c1bb5c</webElementGuid>
+      <webElementGuid>f516b225-0f74-439e-8db0-487f279d3a3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>3411da45-3a62-4a6a-9e67-c38bbf7fa028</webElementGuid>
+      <webElementGuid>463fa9dc-63af-48d6-a0ce-d62bd840660b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-small</value>
-      <webElementGuid>4e31274e-1f4d-49c5-bfbe-74a77ebeae31</webElementGuid>
+      <webElementGuid>9b3e34b5-3c52-4941-b1e1-9824a3e6e1fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>923b6b99-70b3-4322-b6cc-213af9bba574</webElementGuid>
+      <webElementGuid>1e36780d-d8b6-4421-bd16-eeb4c08346a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>size</name>
       <type>Main</type>
       <value>18</value>
-      <webElementGuid>a7711429-6aec-4ab8-8d11-2e0086b7672a</webElementGuid>
+      <webElementGuid>01f8a0d2-a2d0-45be-b23c-8091b88a8318</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>CONTRASEÑA</value>
-      <webElementGuid>356b6a51-3d1e-49ce-9228-e7d4a7071149</webElementGuid>
+      <webElementGuid>8fdc9308-9f30-4c1d-ab92-da9a5b2ecdaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;modlgn-passwd&quot;)</value>
-      <webElementGuid>712c122e-bbb0-4017-b006-1e9e24d71ad8</webElementGuid>
+      <webElementGuid>fbe3e153-dbb1-49f9-9dcf-45b6fbaa0001</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='modlgn-passwd']</value>
-      <webElementGuid>4be76e26-4a47-4c7f-8951-2ff72dfbd715</webElementGuid>
+      <webElementGuid>a6ad7668-9ee8-4944-80c9-6bd18fce715e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='form-login-password']/div/div/span/input</value>
-      <webElementGuid>20e93596-16e2-4cb7-b091-a5c84a038928</webElementGuid>
+      <webElementGuid>e31d2757-6baf-45c4-af0d-218a89898901</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/input</value>
-      <webElementGuid>da0bb3a3-0b51-42f1-8ef7-d8925b2acde8</webElementGuid>
+      <webElementGuid>5c7b0065-434e-4e89-8485-9432404d7ff9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'modlgn-passwd' and @type = 'password' and @name = 'password' and @placeholder = 'CONTRASEÑA']</value>
-      <webElementGuid>ca87a39a-e029-4321-b01a-381c9a4e1e46</webElementGuid>
+      <webElementGuid>8c051274-6263-4c16-98e4-90861e25ff4f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
